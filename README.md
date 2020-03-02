@@ -6,7 +6,10 @@
 
 
 ```bash
-download all file and run the index.html
+download semua file kemudian letakkan ke dalam folder xampp/htdocs 
+lalu jalankan apache dan mysql
+buka localhost/phpmyadmin di browser
+buat database bernama phpmvc -> buat table mahasiswa 5 kolom
 ```
 
 ## Contributing
