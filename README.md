@@ -21,4 +21,3 @@ Please make sure to update tests as appropriate.
 Please credit with my name:
 
 credit by afiv dicky efendy
-# PHP-MVC
